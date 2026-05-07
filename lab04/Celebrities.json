@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Name": "Elon Musk",
+    "Profession": "Entrepreneur",
+    "Country": "USA",
+    "BirthYear": 1971
+  },
+  {
+    "Id": 2,
+    "Name": "Cristiano Ronaldo",
+    "Profession": "Football Player",
+    "Country": "Portugal",
+    "BirthYear": 1985
+  },
+  {
+    "Id": 3,
+    "Name": "Taylor Swift",
+    "Profession": "Singer",
+    "Country": "USA",
+    "BirthYear": 1989
+  },
+  {
+    "Id": 4,
+    "Name": "Leonardo DiCaprio",
+    "Profession": "Actor",
+    "Country": "USA",
+    "BirthYear": 1974
+  },
+  {
+    "Id": 5,
+    "Name": "Malala Yousafzai",
+    "Profession": "Activist",
+    "Country": "Pakistan",
+    "BirthYear": 1997
+  }
+]
